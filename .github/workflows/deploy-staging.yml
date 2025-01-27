@@ -10,7 +10,8 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: elasticclouds-azure-ttt
   AZURE_WEBAPP_NAME: elasticclouds-ttt-app
-  ###############################################    
+  ###############################################   
+  
 
 jobs:
   build:
